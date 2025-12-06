@@ -1,5 +1,8 @@
 PyQt5
 numpy
-sk-video
 mss
 opencv-python
+pyaudiowpatch
+soundfile
+moviepy
+pywin32
